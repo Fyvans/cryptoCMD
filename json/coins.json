@@ -1,0 +1,127 @@
+{
+    "coins": [
+        {
+            "Name": "maverick protocol",
+            "code": "MAV"
+        },
+        {
+            "Name": "the graph",
+            "code": "GRT"
+        },
+        {
+            "Name": "klaytn",
+            "code": "KLAY"
+        },
+        {
+            "Name": "moviebloc",
+            "code": "MBL"
+        },
+        {
+            "Name": "worldcoin",
+            "code": "WLD"
+        },
+        {
+            "Name": "algorand",
+            "code": "ALGO"
+        },
+        {
+            "Name": "pancakeSwap",
+            "code": "CAKE"
+        },
+        {
+            "Name": "Wrapped Beacon ETH",
+            "code": "WBETH"
+        },
+        {
+            "Name": "sleepless ai",
+            "code": "AI"
+        },
+        {
+            "Name": "beacon ethereum",
+            "code": "BETH"
+        },
+        {
+            "Name": "onyxcoin",
+            "code": "XNC"
+        },
+        {
+            "Name": "gala",
+            "code": "GALA"
+        },
+        {
+            "Name": "vara network",
+            "code": "VARA"
+        },
+        {
+            "Name": "iExec",
+            "code": "RLC"
+        },
+        {
+            "Name": "wrapped axelar",
+            "code": "WAXL"
+        },
+        {
+            "Name": "perpetual protocol",
+            "code": "PERP"
+        },
+        {
+            "Name": "uma",
+            "code": "UMA"
+        },
+        {
+            "Name": "synthetix",
+            "code": "SNX"
+        },
+        {
+            "Name": "loopring",
+            "code": "LRC"
+        },
+        {
+            "Name": "polkadot",
+            "code": "DOT"
+        },
+        {
+            "Name": "ethereum",
+            "code": "ETH"
+        },
+        {
+            "Name": "Bitcoin",
+            "code": "BTC"
+        },
+        {
+            "Name": "BNB",
+            "code": "BNB"
+        },
+        {
+            "Name": "Avlanche",
+            "code": "AVAX"
+        },
+        {
+            "Name": "The Sandbox",
+            "code": "SAND"
+        },
+        {
+            "Name": "Tether usdt",
+            "code": "USDT"
+        },
+        {
+            "Name": "STASIS EUR",
+            "code": "EURS"
+        }
+    ],
+    "sources": [
+        "binance earn",
+        "binance funding",
+        "binance spot",
+        "coinbase",
+        "coinbase wallet",
+        "cryptocom",
+        "cryptocom staking",
+        "revolut crypto",
+        "stasis",
+        "stormgain",
+        "subwallet",
+        "worldCoin",
+        "Youhodler"
+    ]
+}
